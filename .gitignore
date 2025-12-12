@@ -1,1 +1,3 @@
 .env
+setup/groq_test.py
+setup/test_api_keys.py
