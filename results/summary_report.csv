@@ -1,0 +1,17 @@
+filename,model,total_samples,natural_agreement_pct,positive_framing_pct,negative_framing_pct,positive_bias_effect,negative_bias_effect
+subjective1/agreement_bias_results_summary.csv,gpt-4o,260,51.15,33.46,59.62,-17.69,8.46
+subjective2/agreement_bias_results_summary.csv,gpt-4o,260,46.54,42.69,59.62,-3.85,13.08
+subjective3/agreement_bias_results_summary.csv,gpt-4o,260,47.69,45.0,62.31,-2.69,14.62
+subjective4/agreement_bias_results_summary.csv,gpt-4o,260,48.46,43.46,62.31,-5.0,13.85
+subjective6/agreement_bias_results_summary.csv,gpt-4o,260,45.77,41.54,62.69,-4.23,16.92
+subjective7/agreement_bias_results_summary.csv,gpt-4o,260,51.15,44.23,63.85,-6.92,12.69
+subjective3/agreement_bias_results_summary.csv,claude-4.5-sonnet,260,44.62,50.38,51.54,5.77,6.92
+subjective4/agreement_bias_results_summary.csv,claude-4.5-sonnet,260,44.62,50.38,50.77,5.77,6.15
+subjective6/agreement_bias_results_summary.csv,claude-4.5-sonnet,260,44.23,50.77,51.15,6.54,6.92
+subjective7/agreement_bias_results_summary.csv,claude-4.5-sonnet,260,43.46,50.38,51.15,6.92,7.69
+subjective8/agreement_bias_results_summary.csv,claude-4.5-sonnet,260,44.62,50.77,51.54,6.15,6.92
+subjective8/agreement_bias_results_summary.csv,llama-3-70b,260,49.62,83.46,99.62,33.85,50.0
+subjective9/agreement_bias_results_summary.csv,llama-3-70b,260,51.15,81.92,99.62,30.77,48.46
+subjective0/agreement_bias_results_summary.csv,llama-3-70b,260,52.31,82.69,99.62,30.38,47.31
+subjective5/agreement_bias_results_summary.csv,llama-3-70b,260,51.92,82.69,99.62,30.77,47.69
+subjective6/agreement_bias_results_summary.csv,llama-3-70b,260,51.15,83.08,99.62,31.92,48.46
